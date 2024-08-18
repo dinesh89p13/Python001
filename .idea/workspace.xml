@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce272794-53c1-4be8-8ae5-e274ec5305e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" afterDir="false" />
+    <list default="true" id="ce272794-53c1-4be8-8ae5-e274ec5305e4" name="Changes" comment="Lab001 updated2">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +56,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -69,6 +84,37 @@
       <option name="presentableId" value="Default" />
       <updated>1723989221132</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab001 added">
+      <option name="closed" value="true" />
+      <created>1723992139757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723992139757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab001 updated">
+      <option name="closed" value="true" />
+      <created>1723992287387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723992287387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab001 updated2">
+      <option name="closed" value="true" />
+      <created>1723992762146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723992762146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab001 added" />
+    <MESSAGE value="Lab001 updated" />
+    <MESSAGE value="Lab001 updated2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab001 updated2" />
   </component>
 </project>
