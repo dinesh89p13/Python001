@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce272794-53c1-4be8-8ae5-e274ec5305e4" name="Changes" comment="Lab001 updated2">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" afterDir="false" />
+    <list default="true" id="ce272794-53c1-4be8-8ae5-e274ec5305e4" name="Changes" comment="Lab exercises of 10th August are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab007HW.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dinesh89p13"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dinesh89p13&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dinesh89p13/Python001.git",
-    "accountId": "21f980b4-a152-4633-8117-368ccec2d90c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dinesh89p13/Python001.git&quot;,
+    &quot;accountId&quot;: &quot;21f980b4-a152-4633-8117-368ccec2d90c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -62,6 +61,7 @@
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
+    "Python.Lab007HW.executor": "Run",
     "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -108,13 +108,38 @@
       <option name="project" value="LOCAL" />
       <updated>1723992762146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab exercises of 10th August are added">
+      <option name="closed" value="true" />
+      <created>1724004052489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724004052489</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab exercises of 10th August are added">
+      <option name="closed" value="true" />
+      <created>1724004134517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724004134517</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lab exercises of 10th August are added">
+      <option name="closed" value="true" />
+      <created>1724004507945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724004507945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab001 added" />
     <MESSAGE value="Lab001 updated" />
     <MESSAGE value="Lab001 updated2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab001 updated2" />
+    <MESSAGE value="Lab exercises of 10th August are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab exercises of 10th August are added" />
   </component>
 </project>
